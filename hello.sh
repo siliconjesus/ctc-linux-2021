@@ -10,3 +10,5 @@ else
     echo "Hello $USER it is $DATE"
     exit 2
 fi
+
+# Jon Mentzell
